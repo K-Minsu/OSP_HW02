@@ -4,3 +4,5 @@
 (local) 2nd modified
 (remote) 1st modified
 -------------------------------
+branch_1 : 1st modified
+branch_1 : 2nd modified
