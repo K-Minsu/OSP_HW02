@@ -2,3 +2,4 @@
 
 (local) 1st modified
 (local) 2nd modified
+(remote) 1st modified
